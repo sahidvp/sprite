@@ -1,0 +1,245 @@
+header{
+    background-color: #009b4e;
+    height: 101px;
+}
+.header-1{
+    width: 15%;
+    height: 103px;
+    float: left;
+    background-color: #009b4e;
+}
+body{
+    margin: 0;
+}
+.sprite-logo{
+    width: 145px;
+    margin-left: 51px;
+    margin-top: 23px;
+}
+.header-2{
+    width: 60%;
+    float: left;
+    margin-top: 38px;
+    font-weight: bold;
+    background-color: #009b4e;
+}
+.header-2-text{
+    font-family: math;
+    display: inline;
+    margin-left: 43px;
+    color: white;
+
+}
+.header-3-logo{
+    background-color: #009b4e;
+    margin-left: 31px;
+    margin-top: 38px;
+    width: 27px;
+    cursor: pointer;
+
+}
+.header-3{
+    padding-left: 10px;
+    background-color: #009b4e;
+}
+.header-3-logo:hover{
+
+    background-color: black;
+}
+.body-1-1{
+    width: 49%;
+    float: left;
+    height: 667px;
+    background-color: black;
+    margin-left: -239px
+
+}
+.body-1-2{
+    width: 50%;
+    height: 667px;
+    float: left;
+    
+    background-color: black;
+}
+.body1-2-image{
+    height: 100%;
+    width: 100%;
+    
+}
+.body1{
+    height: 667px;
+    background-color: black;
+}
+.body1-1-image{
+    width: 421px;
+    position: absolute;
+    left: 75px;
+    top: 200px;
+}
+.body1-1-text{
+    color: #fff;
+    font-family: fantasy;
+    font-weight: inherit;
+    font-style: normal;
+    font-size: 75px;
+    font-weight: unset;
+    margin-top: 215px;
+    margin-left: 70px;
+
+}
+.learnmore{
+    color: black;
+    background-color: #ffd100;
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 74px;
+    width: 180px;
+    height: 53px;
+    font-stretch: expanded;
+}
+.learnmore:hover{
+    background-color: black;
+    color: #fff;
+}
+.body2-1{
+    width: 50%;
+    height: 900px;
+    
+    float: left;
+
+}
+.body2-2{
+    width: 50%;
+    height: 900px;
+    
+    float: left;
+
+}
+.ad{
+    position: relative;
+    left: 157px;
+    top: 60px;
+}
+.body2-1-text{
+    font-family: fantasy;
+    position: relative;
+    top: 190px;
+    left: 144px;
+    color: #009b4e;
+    font-size: 69px;
+}
+.body2-2-text{
+    font-family: fantasy;
+    position: relative;
+    top: 190px;
+    left: 144px;
+    color: black;
+    font-size: 69px;
+    position: relative;
+    top: 54px;
+    left: 0;
+}
+.body2-2-text2{
+    font-family: fantasy;
+    font-size: xx-large;
+    margin-top: 76px;
+}
+.shop-now{
+    background: #ffd100;
+    border: none;
+    font-family: fantasy;
+    width: 211px;
+    height: 41px;
+    font-size: inherit;
+    margin-top: 8px;
+    
+}
+.shop-now:hover{
+    background-color: #363635;
+    color: #fff;
+}
+.footer-1-1{
+    width: 30%;
+    height: 300px;
+        float: left;
+        background-color: #009b4e;
+        
+}
+.footer-1-2{
+    width: 26%;
+    height: 300px;
+    background-color: #009b4e;
+    float: left;
+
+
+}
+.footer-1-3{
+    width: 44%;
+    height: 300px;
+    background-color:#009b4e;
+    float: left;
+
+}
+.footer1{
+    position: relative;
+    top: 85px;
+   
+
+}
+.footer-1-logo{
+    margin-left: 225px;
+    width: 192px;
+    margin-top: 116px;
+    height: 71px;    
+}
+.f1-2{
+    color: #fff;
+    font-size: 17px;
+    font-family: fantasy;
+    margin-top: 70px;
+    margin-left: 90px;
+}
+.f1-2-img{
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.f1-3-list{
+    color:white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-stretch: ultra-expanded;
+    cursor: pointer;
+}
+.f1-3-list:hover{
+    color: black;
+}
+.header-2-text:hover{
+    color: black;
+}
+.footer-2{
+    width: 100%;
+    height: 125px;
+    background-color: #009b4e;
+    position: relative;
+    top: 1269px;
+    
+}
+.f2-text{
+    position: absolute;
+    color: white;
+    margin-left: 592px;
+    font-weight: bold;
+    margin-top: 50px;
+
+}
+.f2-text2{
+    color: white;
+    position: absolute;
+    left: 285px;
+    top: 72px;
+
+}
+.f2-text2:hover{
+    color: black;
+
+}
+
